@@ -17,6 +17,7 @@ namespace Collections
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[3]);
             
+            
 
 
         }
