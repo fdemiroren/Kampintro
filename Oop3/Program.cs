@@ -16,7 +16,7 @@ namespace Oop3
 
             BasvuruManager basvuruManager = new BasvuruManager();
             basvuruManager.BasvuruYap(tasitKrediManager, databaseLoggerService);
-            basvuruManager.KrediOnBilgilendirmesi()
+            
             
 
             Console.WriteLine("********************************************************");
